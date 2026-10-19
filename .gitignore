@@ -1,0 +1,4 @@
+.env
+ticket.db
+__pycache__/
+*.mp4
